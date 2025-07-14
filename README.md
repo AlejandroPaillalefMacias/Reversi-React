@@ -14,8 +14,11 @@ If you are developing a production application, we recommend using TypeScript wi
 ## To run the project you must enter the following commands:
 
 Command Prompt of Windows:
--cd reversi-react
--npm install
--npm run dev
+
+cd reversi-react
+
+npm install
+
+npm run dev
 
 This will open your project at http://localhost:5173
